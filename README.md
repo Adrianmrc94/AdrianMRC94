@@ -12,7 +12,6 @@
   <br />
 
   <div class="badges">
-    <a href="https://github.com/Adrianmrc94"><img  src="https://img.shields.io/badge/GITHUB-Perfil-brightgreen?style=for-the-badge&logo=github" /></a>
     <a href="https://www.linkedin.com/in/adrian-mart%C3%ADn-romo-ca%C3%B1adas-8a5460241/"><img src="https://img.shields.io/badge/LINKEDIN-Perfil-blue?style=for-the-badge&logo=linkedin" /></a>
     <a href="mailto:adrianmrc94@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contáctame-yellow?style=for-the-badge&logo=envelope" /></a>
   </div>
