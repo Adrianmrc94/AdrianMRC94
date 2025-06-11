@@ -1,55 +1,9 @@
-
-  👋 Hola, gracias por visitar mi perfil de GitHub.
-  Este README fue hecho con mucho ❤️ 
-
-<style>
-  body {
-    font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-    color: #333;
-    background-color: #f4f4f4;
-  }
-  h1, h2, h3 {
-    color: inherit;
-  }
-  a {
-    color: #007BFF;
-    text-decoration: none;
-    transition: color 0.3s ease;
-  }
-  a:hover {
-    color: #0056b3;
-  }
-  .container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  .badges {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    margin-top: 20px;
-  }
-  .stats-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 20px;
-  }
-  .stats-container > div {
-    flex: 1;
-    margin: 0 10px;
-  }
-</style>
-
-<div class="container">
-  <p align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZyNXVoZWt6NGlwbDZsZHcxanZuZ29kbWp3cG1ubG90ajA0aXVjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiXiO1iR3fFhC/giphy.gif"  width="250" alt="Developer coding with style"/>
-  </p>
-
   <h1 align="center">Hey, soy Adrián 👨‍💻</h1>
   <h3 align="center"> Desarrollador Full-Stack | Amante de JavaScript | Entusiasmado con Python & React</h3>
+  
+  <p align="center">
+  <img align="right" height="250" width="375" alt="" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjluZWFoNmtpaWY3bDByb21taTJ2NWg0N2xobWE2cW1xamE1bWdiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gtfppP6qR3tiU/giphy.gif" />
+</p>
 
   <p align="center">
     <b>🚀 Apasionado por construir aplicaciones eficientes, limpias.</b>
@@ -65,7 +19,7 @@
 
   <br />
 
-  ## 🧠 Sobre mí 
+   <h3>🧠 Sobre mí</h3> 
 
   Soy un **desarrollador Full-Stack** recién graduado de **4Geeks Academy**, con formación sólida en **JavaScript, React, Python, Flask y bases de datos SQL/NoSQL**.  
   Vengo del mundo de la hostelería, donde desarrollé habilidades clave como trabajo en equipo, resolución de problemas bajo presión y atención al detalle — habilidades que hoy aplico en el desarrollo de software.
@@ -74,7 +28,7 @@
 
   ---
 
-  ## ⚙️ Tecnologías que domino
+  <h3>⚙️ Tecnologías que domino</h3>
 
   - **Frontend:** React.js, TypeScript, HTML5, CSS3, Bootstrap
   - **Backend:** Python, Flask, Node.js, PHP
@@ -84,9 +38,9 @@
 
   ---
 
-  ## 🧪 Proyectos Destacados
+  <h3>🧪 Proyectos Destacados</h3>
 
-  ### 🏗️ [Proyecto Final FLA 2.0](https://github.com/Adrianmrc94/Proyecto-Final-FLA-2.0) 
+  <h4>🏗️ [Proyecto Final FLA 2.0](https://github.com/Adrianmrc94/Proyecto-Final-FLA-2.0) </h4>
   Desarrollo full-stack de una aplicación web con:
   - Backend en **Python (Flask)**
   - Frontend en **React.js**
@@ -94,3 +48,10 @@
   - Despliegue en **Render**
 
   ---
+<h3>¡Gracias por pasar por aquí! Espero que te animes a conectarte conmigo o colaborar en algún proyecto. Bienvenido/a siempre 💙</h3>
+
+<h3>📊 Estadísticas de GitHub</h3>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Adrianmrc94&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianmrc94&layout=compact&theme=radical" alt="Top Languages" />
+</div>
