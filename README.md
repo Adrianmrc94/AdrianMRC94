@@ -25,7 +25,7 @@
 
   ---
 
-  <h3>⚙️ Tecnologías que domino</h3>
+  <h3>⚙️ Tecnologías</h3>
 
   - **Frontend:** React.js, TypeScript, HTML5, CSS3, Bootstrap
   - **Backend:** Python, Flask, Node.js, PHP
