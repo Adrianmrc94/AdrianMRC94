@@ -21,8 +21,6 @@
    <h3>🧠 Sobre mí</h3> 
 
   Soy un **desarrollador Full-Stack** recién graduado de **4Geeks Academy**, con formación sólida en **JavaScript, React, Python, Flask y bases de datos SQL/NoSQL**.  
-  Vengo del mundo de la hostelería, donde desarrollé habilidades clave como trabajo en equipo, resolución de problemas bajo presión y atención al detalle — habilidades que hoy aplico en el desarrollo de software.
-
   Ahora estoy buscando oportunidades para seguir creciendo como desarrollador y aportar valor a proyectos innovadores.
 
   ---
